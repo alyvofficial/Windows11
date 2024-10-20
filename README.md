@@ -68,11 +68,11 @@ Want to contribute? We’d love your help! Fork the repository, make your change
 
 ## <div style="margin-left:10px;">⭐ Support
 
-If you enjoy this project or find it useful, please consider giving it a star on [GitHub](https://github.com/MishanPoudel/Windows11-3.0). Your support means a lot and helps encourage further development! 🌟
+If you enjoy this project or find it useful, please consider giving it a star on [GitHub](https://github.com/alyvofficial/Windows11). Your support means a lot and helps encourage further development! 🌟
 
 ## <div style="margin-left:10px;"> Contact
 
-Got questions or feedback? Reach out at [your-email@example.com](mailto:poudelmishan2@gmail.com). We’d love to hear from you!
+Got questions or feedback? Reach out at [alyvdev@gmail.com](mailto:alyvdev@gmail.com). We’d love to hear from you!
 
 ## <div style="margin-left:10px;">🚧 Note
 
@@ -92,14 +92,6 @@ I’m a beginner in React.js and web development, so my code might not be perfec
     <img src="public/screenshots/spotify.png" alt="spotify" width="400px"">
     <img src="public/screenshots/startmenu.png" alt="startmenu" width="400px"">
     <img src="public/screenshots/aboutme.png" alt="aboutme" width="400px"">
-</p>
-
-## <div style="margin-left:10px;"> 💡 Inspiration
-
-This project was slightly inspired by [Vivek Patel's portfolio](https://vivek9patel.github.io/). Check it out for more creative ideas and inspiration!
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d8/55/a2/d855a216c91d7d79fec9ec14c12d9a9b.gif" alt="gif" width="100%">
 </p>
 
 <div style="margin:20px; font-size:20px;"><strong>Enjoy exploring your Windows Clone app! 🎉💻🖱</strong>
